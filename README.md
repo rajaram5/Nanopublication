@@ -1,7 +1,7 @@
 Nanopublication
 ===============
 
-Sample Args for HD_Nanopub_Converter
+Sample Args for hd_nanopub_converter
 =====================================
 
 '-help
